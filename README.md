@@ -115,6 +115,7 @@ Challenge: Creating a Lambda Expression
 
 Challenge: Multi-line Lambdas
 
+https://next.tech/projects/e616e1dc-055a-424c-8d4f-2fbfe3c06ed7?access_token=DBB5123A9245B065267683AFDAB2E39F&internal=false
 
 
 
